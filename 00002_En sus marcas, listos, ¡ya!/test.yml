@@ -1,0 +1,13 @@
+interactive: false
+check_head_position: true
+examples:
+ - initial_board: |
+     GBB/1.0
+     size 6 1
+     cell 0 0 Azul 1 
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 6 1
+     cell 5 0 Azul 1 
+     head 0 NaN
