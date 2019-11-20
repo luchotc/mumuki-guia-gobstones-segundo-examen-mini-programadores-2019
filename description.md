@@ -1,0 +1,1 @@
+El año que viene son las olimpíadas :medal: así que ayudemos a las y los deportistas :woman_lifting_weights::man_bouncing_ball: a practicar para que lleguen en perfectas condiciones :muscle:. ¡Empecemos!
