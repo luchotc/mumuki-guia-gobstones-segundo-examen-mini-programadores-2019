@@ -3,7 +3,9 @@ name: segundo Examen Mini Programadores 2019
 locale: es
 type: practice
 beta: false
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
-order: []
+order:
+- 1
 private: false
